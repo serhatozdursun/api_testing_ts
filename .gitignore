@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Compiled TypeScript files
+/dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+
+# Logs and other temporary files
+*.log
+npm-debug.log*
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore configuration files for automated tools
+.eslintcache
+.prettierignore
+.prettiercache
+
+# Report folder
+report/
